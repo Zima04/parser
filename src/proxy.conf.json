@@ -1,0 +1,8 @@
+{
+  "/vacatures": {
+    "target": "https://www.nationalevacaturebank.nl/",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
